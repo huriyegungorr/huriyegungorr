@@ -1,6 +1,6 @@
 **huriyegungorr
 Kırklareli Üniversitesi Yazılım mühendisliği bölümünde okuyorum ve yeni proglamlama öğreniyorum yüklediğim ilk çalışmam dosya şifreleme programı:
-Kullanıcı yapması gereken: bu program devC++ uygulamasında geliştirlmiştir kullanıcı bu uygulamayı indirip projeyi çalıştırabilir.
+Kullanıcı yapması gereken: bu program devC++ uygulamasında geliştirilmiştir kullanıcı bu uygulamayı indirip projeyi çalıştırabilir.
 kullanıcı şifrelemek istediği dosyayı şifre dosyasının içine ekler ardından kod sayfasında char dosyaAdi kısmına "" içerisine dosyasını yazar ardından programı çalıştırır.
 Program içeriği ve özellikleri:
 Yüklediğim şifreleme dosyası sayesinde istediğimiz dosyayı şifreleyip daha sonra şifresini çözebiliriz.
